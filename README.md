@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OtavioDaflonC
-- 👀 I’m a great enthusiastic of AI, Data processing for BI as for biomaterials and polymers.
+- 💙 I’m a IBMer, passionated about data science and delivering value to great problems! Enthusiastic of AI, Data processing for BI as for biomaterials and polymers.
 - 🌱 I study and apply Nanotechnology and Data Science as a undergrad.
-- 💞️ I’m looking to collaborate on great Big Data projects and RNAseq projects just like chess engine projects and research for fun!
+- 💞️ Always open to collaborate for a good cause.
 - 📫 Contact me! otaviodafloncoutinho@gmail.com/ otaviodaflon@hotmail.com
 
 
