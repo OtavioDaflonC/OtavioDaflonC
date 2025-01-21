@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Greetings!;Nice+to+have+you+here.;Try+exploring+my+newest+repo:+FinDash)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @OtavioDaflonC
@@ -9,3 +9,4 @@
 - 📫 Contact me! otaviodafloncoutinho@gmail.com/ Otavio.Daon@ibm.com
 
 
++
