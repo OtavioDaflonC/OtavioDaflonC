@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Greetings!;Nice+to+have+you+here.;Try+exploring+my+newest+repo:+FinDash)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Greetings!;Nice+to+have+you+here.;Try+my+newest+repo:+FinDash)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @OtavioDaflonC
