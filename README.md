@@ -8,5 +8,3 @@
 - 💞️ Always open to collaborate for a good cause;
 - 📫 Contact me! otaviodafloncoutinho@gmail.com/ Otavio.Daon@ibm.com
 
-
-+
